@@ -1,4 +1,4 @@
-# Mozzart Web Scraper  ![GitHub follow](https://img.shields.io/github/followers/ficanovak?label=Follow&style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/ficanovak/mozzart-web-scraper) ![GitHub](https://img.shields.io/github/license/ficanovak/mozzart-web-scraper) ![GitHub](https://img.shields.io/badge/built%20with-Python3-green) ![GitHub](https://img.shields.io/badge/-bs4-blue)
+# Mozzart Web Scraper  ![GitHub follow](https://img.shields.io/github/followers/ficanovak?label=Follow&style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/ficanovak/mozzart-web-scraper) ![GitHub](https://img.shields.io/github/license/ficanovak/mozzart-web-scraper) ![GitHub](https://img.shields.io/badge/built%20with-Python3-green) ![GitHub](https://img.shields.io/badge/-selenium-red) ![GitHub](https://img.shields.io/badge/-bs4-blue)
 
  A web scraping script used for picking up NBA player's limits and odds from a [Mozzart](https://www.mozzartbet.com/sr#/) betting company's website using selenium.
  
