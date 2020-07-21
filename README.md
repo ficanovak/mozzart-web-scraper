@@ -5,6 +5,7 @@
  ## How it works
  
  Python script used for scraping betting company's website and finalizing output into table on MsSQL server or, for the sake of the presentation, CSV file.
+ 
  **Important:** As website uses a cookie consent notice, selenium is using webdriver to click on the OK button and then access the page and the Player's data. Make sure you're using the right updated version of a chromedriver that is compatible with your browser.
  Script is packing all info into several columns:
  - Player
